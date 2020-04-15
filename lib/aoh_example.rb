@@ -21,7 +21,7 @@ def literal_aoh
   literal_aoh = [ 
     { :name => "Don Gately", :occupation => "Live-in Staff"},
     { :name => "Joelle van Dyne", :occupation = > "Radio Personality"}
-    { :name => "Don Gately", :occupation => "Live-in Staff"}
+    { :name => "Pat Monteseian", :occupation => "Live-in Staff"}
     { :name => "Don Gately", :occupation => "Live-in Staff"}
     { :name => "Don Gately", :occupation => "Live-in Staff"}
   ]
